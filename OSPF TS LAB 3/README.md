@@ -1,5 +1,5 @@
 
-# OSPF Troubleshooting Lab 1
+# OSPF Troubleshooting Lab 3
 
 **Troubleshooting ticket:**
 
